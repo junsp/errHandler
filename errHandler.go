@@ -1,4 +1,4 @@
-package errhandler
+package errHandler
 
 func HandlerError(err error) {
 	if err != nil {
